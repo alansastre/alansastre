@@ -1,6 +1,10 @@
-### Formador en lenguajes y frameworks de programación
+### CEO CertiDevs.com
 
-* Full Stack developer: Java y Angular
-* Data Engineer
-
-Formador en **CertiDevs**.
+* Formación tecnológica
+* Frontend
+* Backend
+* Testing
+* Bases de datos
+* Ciencia de datos y Big Data
+* Inteligencia Artificial: ML, DL, Generative AI
+* Cursos de programación en app.certidevs.com
